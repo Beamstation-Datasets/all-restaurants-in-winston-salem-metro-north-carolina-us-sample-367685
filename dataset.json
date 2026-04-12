@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining data for the Winston-Salem (Metro), North Carolina metro region, encompassing Winston and Salem. Spans multiple municipalities within a mid-size metropolitan dining market. Filtered by the Restaurants category group with business profiles, sentiment data, review trends, and competitive benchmarks. Refreshed weekly.",
+  "config_name": "All Restaurants in Winston-Salem (Metro), North Carolina, US",
+  "export_job_id": "d1bb5dcb-2df7-4d3a-a1ff-3f7d2646acf9",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 367685,
+  "location_name": "Winston-Salem, NC",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-winston-salem-metro-north-carolina-us-sample-367685",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/367685/beamstation_367685_restaurants-us-winstonsalemnc_SAMPLE_DIST.csv",
+  "sample_pct": 3.03,
+  "sample_records": 25,
+  "sample_sha256": "9b17b62d04bd3f99231139adcc192a7282fa06412d657d2c74a732a699c6d8f9",
+  "sample_size_bytes": 114107,
+  "total_records": 826,
+  "updated_at": "2026-03-31T15:59:41.221743+00:00"
+}
