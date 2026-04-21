@@ -1,12 +1,12 @@
 {
-  "export_job_id": "bccd4bf5-f237-4147-9fba-7ba33418a866",
+  "export_job_id": "54f9bd1b-edf8-4b87-8d47-7ea314cc2268",
   "id_short": 367685,
-  "published_at": "2026-04-17T19:20:50Z",
+  "published_at": "2026-04-21T19:20:21Z",
   "repo_name": "all-restaurants-in-winston-salem-metro-north-carolina-us-sample-367685",
   "sample_asset_name": "beamstation_367685_restaurants-us-winstonsalemnc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/367685/beamstation_367685_restaurants-us-winstonsalemnc_SAMPLE_DIST.csv",
-  "sample_records": 100,
-  "sample_sha256": "021d5fa00c4bb1b861d1b10499673851e7a5b5bcd8d40eb4f46c78097976ebe8",
-  "sample_size_bytes": 394262,
-  "total_records": 1007
+  "sample_records": 115,
+  "sample_sha256": "86cd91031abc90a5f2eb4c0a48704ba5622c6e422e04c2fbba5a2afafea6af1a",
+  "sample_size_bytes": 450289,
+  "total_records": 1153
 }
